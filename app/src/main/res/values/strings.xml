@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ProjetoBrecho2.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_bags">Sacolinhas</string>
+    <string name="menu_sales">Vendas</string>
+    <string name="menu_create_product">Cadastrar Produto</string>
+    <string name="menu_register_client">Cadastrar Cliente</string>
+    <string name="multiple_stock_text_radio">Estoque múltiplo</string>
+    <string name="insert_cost_text">Digite o custo do produto</string>
+    <string name="insert_product_description_text">Digite a descrição do produto</string>
+    <string name="insert_price_text">Digite o preço do produto</string>
+    <string name="create_product_button_text">Cadastrar</string>
+    <string name="unique_stock_text_radio">Estoque único</string>
+    <string name="product_description_hint">Descrição do Produto</string>
+    <string name="product_price_hint">Preço do Produto</string>
+    <string name="product_cost_hint">Custo do Produto</string>
+    <string name="list_bags_title">Lista de Sacolinhas</string>
+    <string name="delivered_button_text">Entregue</string>
+    <string name="to_deliver_button_text">Entrega a Combinar</string>
+    <string name="search_button_text">Buscar</string>
+    <string name="search_bar_hint">Nome ou @ do cliente</string>
+    <string name="create_product_title">Cadastrar Produto</string>
+    <string name="register_client_title">Cadastrar Cliente</string>
+    <string name="client_name_hint">Nome do Cliente</string>
+    <string name="client_instagram_user_hint">"@ do cliente"</string>
+    <string name="client_email_hint">"E-mail do cliente"</string>
+    <string name="register_client_button_text">Cadastrar</string>
+    <string name="insert_sales_title">Inserir Vendas</string>
+    <string name="client_title_text">Cliente</string>
+    <string name="product_description_recycler_view_item">Nome do Produto</string>
+    <string name="product_price_recycler_view_item">Preço do Produto</string>
+    <string name="insert_sales_button_text">Inserir Venda</string>
+    <string name="price_format">R$ %.0f</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bad_details_title_text">Sacolinha</string>
+    <string name="bag_details_product_title">Produtos</string>
+    <string name="bag_details_status_title">Situação</string>
+    <string name="send_tracking_button_title">Enviar rastreio</string>
+    <string name="set_delivered_bag_button_title">Marcar como entregue</string>
+    <string name="sales_total_title_card">Total em Vendas</string>
+    <string name="bag_active_days_title_card">Dias ativa</string>
+    <string name="select_products_subtitle_text">Selecione os Produtos</string>
+    <string name="bag_status_title">Status da Sacolinha</string>
+    <string name="create_bag_button_text">Criar Sacolinha</string>
+    <string name="created_at_bag_text">Criada em:</string>
+    <string name="delivered_at_bag_text">Entregue em:</string>
+
+
+</resources>
